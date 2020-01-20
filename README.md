@@ -1,5 +1,5 @@
 # GraphModelApplication
-coursework for uncertainty model in AI
+coursework for uncertainty model in AI, zero tolerance toward plagiarism. 
 
 ## [Vanishing Point](https://www.cc.gatech.edu/~dellaert/pub/Schindler04cvpr.pdf)
 * initialization follows [Manhattan world](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.8799&rep=rep1&type=pdf)
